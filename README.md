@@ -2,6 +2,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJ-SOBynjh31eX2Y8g9fernZXLlppyvheZcpxw_eF_-NFxUQ/viewform?usp=sf_link">Link to the questionnarie for the next training's patterns</a>
+<br>
 <a href="">LeetCode problems list</a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
